@@ -6,6 +6,6 @@ We implement and host Odoo Enterprise for companies of every size and industry.
 
 **Vision.** To be leaders in Odoo Enterprise: systems that grow with every company, built to the standards of Odoo and the OCA.
 
-**Open source.** Proudly part of the Odoo community: we build with it, give back to it, and share the modules we build on it under AGPL-3 in [baselogica-open-addons](https://github.com/baselogica-ar/baselogica-open-addons).
+**Open source.** Happy to share with the Odoo community: we build with it, give back what we improve, and publish the modules we build on it under AGPL-3 in [baselogica-open-addons](https://github.com/baselogica-ar/baselogica-open-addons).
 
 [baselogica.com](https://baselogica.com)
